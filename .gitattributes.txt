@@ -1,0 +1,9 @@
+# Ensure consistent line endings in the repository (LF)
+* text=auto
+
+# Specific file types set to LF line endings
+*.java text eol=lf
+*.properties text eol=lf
+*.xml text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
